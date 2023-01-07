@@ -4,4 +4,4 @@ To our organisation page! NeuralFit is an organisation that aims to simplify neu
  - :clipboard: Following the [installation instructions](https://neuralfit.net/installation/)
  - :green_book: Reading the [documentation](https://neuralfit.net/documentation/)
  - :arrow_forward: Trying out some [examples](https://neuralfit.net/examples/)
- - :bug: Reporting any bugs you encounter on our [issues page](https://github.com/neural-fit/issues)
+ - :bug: Reporting any bugs you encounter on our [issues page](https://github.com/neural-fit/neuralfit/issues)
